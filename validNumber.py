@@ -1,3 +1,4 @@
+## Validate if a given string is numeric.
 class Solution:
     # @param s, a string
     # @return a boolean
