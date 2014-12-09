@@ -1,11 +1,21 @@
 ## Merge k sorted linked lists and return it as 
 ## one sorted list 
-## Divide and Conquer 
+
+## ListNode class
 class ListNode():
   def __init__(self, x):
     self.val = x
     self.next = None
 
+## Brute force method 
+def mergeKLists(lists):
+  if(not len(lists)); return None 
+  head = merge2Lists(lists[0], ListNode(0))
+  for i in range(1, len(lists) - 1):
+    head = merge2Lists(head, lists[i])
+  return head
+
+## Divide and Conquer method 
 def mergeKLists(lists):
   if(not len(lists)): return None
   end = len(lists) - 1
@@ -16,7 +26,8 @@ def mergeKLists(lists):
       start += 1
       end -= 1
   return lists[0]
-  
+ 
+## merge 2 linked lists  
 def merge2Lists(l1, l2):
   dummyHead = ListNode(0)
   p = dummyHead
