@@ -1,5 +1,6 @@
 ## Merge k sorted linked lists and return it as 
 ## one sorted list 
+## Divide and Conquer 
 class ListNode():
   def __init__(self, x):
     self.val = x
