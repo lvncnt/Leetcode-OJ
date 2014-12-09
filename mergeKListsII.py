@@ -11,7 +11,7 @@ class ListNode():
 def mergeKLists(lists):
   if(not len(lists)); return None 
   head = merge2Lists(lists[0], ListNode(0))
-  for i in range(1, len(lists) - 1):
+  for i in range(1, len(lists)):
     head = merge2Lists(head, lists[i])
   return head
 
