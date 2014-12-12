@@ -1,11 +1,13 @@
 ## Validate binary search tree
 ## given a binary tree, determine if it is a valid binary search tree 
+
 class TreeNode(): 
   def __init__(self, x): 
     self.val = x
     self.left = None
     self.right = None 
     
+## Brute force: O(n2) runtime 
 def isValidBST(root): 
   if(not root): return True
   return (
