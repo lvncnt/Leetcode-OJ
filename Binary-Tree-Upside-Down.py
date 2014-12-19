@@ -34,6 +34,7 @@ def UpsideDownBinaryTree(root):
     p.right = parent 
     parent = p
     p = left 
+  return parent 
 
 # bottom up approach 
 def UpsideDownBinaryTree(root): 
