@@ -28,3 +28,13 @@ def singleNumber(A):
   for key in dict: 
     if(dict.get(key)): return key 
     
+# using bitwise operation 
+def singleNumber(A): 
+  result = 0 
+  for i in range(32): 
+    bit = 0 
+    for j in A: 
+      bit += (j>>i) & 1
+    result |= (bit%3)<<i
+
+    return result if not( result ^ 0x80000000) else -(result^0xFFFFFFFF) - 1
