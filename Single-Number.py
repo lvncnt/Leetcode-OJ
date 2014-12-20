@@ -11,6 +11,12 @@ def singleNumber(A):
     elif(dict.get(i) == 1): dict.pop(i) 
   return list(dict.keys())[0] 
   
+# using bitwise operation 
+def singleNumber(A): 
+  num = 0
+  for i in A: num ^= i 
+  return num 
+  
 """ 
 Given an array of integer, every elements appears three times except for one, 
 Find that single one. 
