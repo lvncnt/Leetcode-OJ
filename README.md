@@ -1,8 +1,5 @@
-
 ![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Logo/logo.png "Logo")
 ========
-
-
 Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Logo/LeetCodeLogo.png "Leetcode")][0]) 
 
 | #                 | Title           | Difficulty   
