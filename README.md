@@ -4,11 +4,13 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 
 :key:
 
-| #                 | Title           | Difficulty   
-| :-------------:   |-------------    | -----|
-| 1                 | [Two Sum][1]               | Medium  
+| #                 | Title           | Difficulty   | Solution 
+| :-------------:   |-------------    | -----|  ----- 
+| 1                 | [Two Sum][1]               | :star: :star:  
 | 2                 | [Add Two Numbers][2]        |  Medium  
 | 3                 | [Longest Substring Without Repeating Characters][2]      |    Medium  
+
+Easy: :star:   Medium: :star: :star:
 
 [0]: http://leetcode.com/
 [1]: https://oj.leetcode.com/problems/two-sum/
