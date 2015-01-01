@@ -12,7 +12,7 @@
 
 <p align="center">
  <img src="https://github.com/lvncnt/Leetcode-OJ/blob/master/Logo/LeetCodeLogo.png" alt="alt text" style="width:20;height:20">
-</p>
+
 ========
 Problems (Source: http://leetcode.com) 
 
@@ -24,3 +24,4 @@ Problems (Source: http://leetcode.com)
 
 
 
+</p>
