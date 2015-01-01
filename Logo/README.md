@@ -1,1 +1,0 @@
-Leetcode.com logo
