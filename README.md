@@ -16,11 +16,11 @@
 ========
 Problems (Source: http://leetcode.com) 
 
-| #                 | Title           | Difficulty  |
+| #                 | Title           | Difficulty   
 | :-------------:   |-------------    | -----|
-| 1                 | [Two Sum][1]               | Medium |
-| 2                 | Add Two Numbers         |  Medium |
-| 3                 | Longest Substring Without Repeating Characters      |    Medium |
+| 1                 | [Two Sum][1]               | Medium  
+| 2                 | Add Two Numbers         |  Medium  
+| 3                 | Longest Substring Without Repeating Characters      |    Medium  
 
 [1]: https://oj.leetcode.com/problems/two-sum/
 
