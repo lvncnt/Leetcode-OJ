@@ -6,7 +6,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 
 | #                 | Title           | Difficulty   | Solution 
 | :-------------:   |-------------    | -----|  ----- 
-| 1                 | [Two Sum][1]               | :star: :star:  
+| 1                 | [Two Sum][1]               | :star::star:  | :key:
 | 2                 | [Add Two Numbers][2]        |  Medium  
 | 3                 | [Longest Substring Without Repeating Characters][2]      |    Medium  
 
