@@ -1,11 +1,11 @@
 ~~ leetcode ~~ 
 
  
-![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Logo/logo.png "Leetcode")
+![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Logo/LeetCodeLogo.png "Leetcode")
 
  
 <p align="right">
- <img src="https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Logo/logo.png" alt="alt text" style="width:20;height:20">
+ <img src="https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Logo/LeetCodeLogo.png" alt="alt text" style="width:20;height:20">
 </p>
 ========
 Problems (Source: http://leetcode.com) 
