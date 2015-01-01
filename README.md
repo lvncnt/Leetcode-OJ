@@ -3,6 +3,8 @@
 
 ![alt text](https://github.com/lvncnt/Leetcode-OJ/blob/master/Logo/LeetCodeLogo.png "Leetcode")
 
+
+![](https://github.com/lvncnt/Leetcode-OJ/blob/master/Logo/LeetCodeLogo.png =100x20)
 ========
 Problems (Source: http://leetcode.com) 
 
