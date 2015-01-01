@@ -1,5 +1,8 @@
 ~~ leetcode ~~ 
 
+-> leetcode <- 
+
+->![alt text](https://github.com/lvncnt/Leetcode-OJ/blob/master/Logo/LeetCodeLogo.png)<-
 
 ![alt text](https://github.com/lvncnt/Leetcode-OJ/blob/master/Logo/LeetCodeLogo.png "Leetcode")
 
