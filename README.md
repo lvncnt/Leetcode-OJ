@@ -1,13 +1,9 @@
-~~ leetcode ~~ 
 
- 
+![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Logo/logo.png "Logo")
+
+========
 [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Logo/LeetCodeLogo.png "Leetcode")][0]
 
- 
-<p align="right">
- <img src="https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Logo/LeetCodeLogo.png" alt="alt text" style="width:20;height:20">
-</p>
-========
 Problems (Source: http://leetcode.com) 
 
 | #                 | Title           | Difficulty   
