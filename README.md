@@ -1,7 +1,7 @@
 ~~ leetcode ~~ 
 
  
-![alt text](https://github.com/lvncnt/Leetcode-OJ/blob/master/Logo/LeetCodeLogo.png "Leetcode")
+![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Logo/logo.png "Leetcode")
 
 
 ![](https://github.com/lvncnt/Leetcode-OJ/blob/master/Logo/LeetCodeLogo.png =50x50)
