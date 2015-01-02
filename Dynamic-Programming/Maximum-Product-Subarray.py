@@ -1,5 +1,6 @@
 """
-Find the continuous subarray within an array of integers that has the largest product. 
+Find the continuous subarray within an array of integers 
+that has the largest product. 
 """
 
 class Solution(): 
