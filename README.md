@@ -7,6 +7,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 | 1                 | [Two Sum][1]               | :star::star:  | [:unlock:][1a]
 | 2                 | [Add Two Numbers][2]        |  :star::star:  | :lock:  
 | 3                 | [Longest Substring Without Repeating Characters][3]      |    :star::star:  | [:unlock:][3a]  
+35 |	[Search Insert Position][35] |  :star::star: | :lock: 
 53| [Maximum Subarray][53] |  :star::star: | [:unlock:][53a]
 62 |	[Unique Paths][62]	 |  :star::star: | [:unlock:][62a]
 63 | [Unique Paths II ][63]  |  :star::star: | [:unlock:][63a]
@@ -19,6 +20,8 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [2]: https://oj.leetcode.com/problems/add-two-numbers/
 [3]: https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/
 [3a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/lengthOfLongestSubstring.py
+[35]: https://oj.leetcode.com/problems/search-insert-position/
+[35a]:
 [53]: https://oj.leetcode.com/problems/maximum-subarray/
 [53a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Dynamic-Programming/Maximum-Sum-Subarray.py
 [62]: https://oj.leetcode.com/problems/unique-paths/
