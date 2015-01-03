@@ -3,8 +3,8 @@
 Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Logo/LeetCodeLogo.png "Leetcode")][0]) 
 
 |#                 | Title           | Difficulty   | Solution 
-|:-------------:   |-------------    | -----| : ----- :
-1 | [Two Sum][1]               | :star::star:  | [:unlock:][1a]
+|:-------------:   |-------------    | -----|  ----- 
+|1 | [Two Sum][1]               | :star::star:  | [:unlock:][1a]
 2 | [Add Two Numbers][2]        |  :star::star:  | :lock:  
 3 | [Longest Substring Without Repeating Characters][3]      |    :star::star:  | [:unlock:][3a]  
 35 |	[Search Insert Position][35] |  :star::star: | [:unlock:][35a]
