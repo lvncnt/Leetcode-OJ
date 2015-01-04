@@ -15,13 +15,17 @@ Assume no duplicates in the array
 
 class Solution(): 
     def search(self, A, target): 
-        start, end = 0, len(A); 
+        start, end = 0, len(A) - 1; 
         while(start <= end): 
           mid = (start + end )//2
           if(A[mid] == target): return mid 
+          
+          # left half is sorted 
           if(A[start] <= A[mid]): 
             if(target < A[mid] and target >= A[start]): end = mid - 1
             else: start = mid + 1
+            
+          # right half is sorted 
           else: 
             if(target > A[mid] and target <= A[end]): start = mid + 1
             else: end = mid - 1
