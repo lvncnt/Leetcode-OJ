@@ -35,7 +35,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [70]: https://oj.leetcode.com/problems/climbing-stairs/
 [70a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Dynamic-Programming/Climb-Stairs.py
 [81]: https://oj.leetcode.com/problems/search-in-rotated-sorted-array-ii/
-[81a]: https://oj.leetcode.com/problems/search-in-rotated-sorted-array-ii/
+[81a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Search/Search-in-Rotated-Sorted-ArrayII.py
 [152]: https://oj.leetcode.com/problems/maximum-product-subarray/
 [152a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Dynamic-Programming/Maximum-Product-Subarray.py
 
