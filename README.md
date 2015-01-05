@@ -4,17 +4,21 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 
 |#                 | Title           | Difficulty   | Solution 
 |:-------------:   |-------------    | -----|:-----: 
-|1 | [Two Sum][1]               | :star::star:  | [:unlock:][1a]
-2 | [Add Two Numbers][2]        |  :star::star:  | :lock:  
-3 | [Longest Substring Without Repeating Characters][3]      |    :star::star:  | [:unlock:][3a]  
-33 |	[Search in Rotated Sorted Array][33] | :star::star::star:  | [:unlock:][33a]  
-35 |	[Search Insert Position][35] |  :star::star: | [:unlock:][35a]
-53| [Maximum Subarray][53] |  :star::star: | [:unlock:][53a]
-62 |	[Unique Paths][62]	 |  :star::star: | [:unlock:][62a]
-63 | [Unique Paths II ][63]  |  :star::star: | [:unlock:][63a]
-70 |	[Climbing Stairs][70] | :star: | [:unlock:][70a]
+|1  | [Two Sum][1]               | :star::star:  | [:unlock:][1a]
+2   | [Add Two Numbers][2]        |  :star::star:  | :lock:  
+3   | [Longest Substring Without Repeating Characters][3]      |    :star::star:  | [:unlock:][3a]  
+33  |	[Search in Rotated Sorted Array][33] | :star::star::star:  | [:unlock:][33a]  
+35  |	[Search Insert Position][35] |  :star::star: | [:unlock:][35a]
+53  | [Maximum Subarray][53] |  :star::star: | [:unlock:][53a]
+62  |	[Unique Paths][62]	 |  :star::star: | [:unlock:][62a]
+63  | [Unique Paths II ][63]  |  :star::star: | [:unlock:][63a]
+70  |	[Climbing Stairs][70] | :star: | [:unlock:][70a]
 81	| [Search in Rotated Sorted Array II][81] | :star::star: | [:unlock:][81a]
 152	| [Maximum Product Subarray][152]  | :star::star: | [:unlock:][152a]
+153	| [Find Minimum in Rotated Sorted Array][153]  | :star::star: | [:unlock:][153a]
+154	| [Find Minimum in Rotated Sorted Array II][154]	| :star::star::star:  | [:unlock:][154a] 
+
+
 
 [0]: http://leetcode.com/
 [1]: https://oj.leetcode.com/problems/two-sum/
@@ -38,7 +42,10 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [81a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Search/Search-in-Rotated-Sorted-ArrayII.py
 [152]: https://oj.leetcode.com/problems/maximum-product-subarray/
 [152a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Dynamic-Programming/Maximum-Product-Subarray.py
-
+[153]: https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+[153a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Search/Find-Minimum-in-Sorted-Rotated-Array.py
+[154]: https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
+[154a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Search/Find-Minimum-in-Sorted-Rotated-ArrayII.py
 
 
 
