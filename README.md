@@ -22,7 +22,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 
 [0]: http://leetcode.com/
 [1]: https://oj.leetcode.com/problems/two-sum/
-[1a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/twoSum.py
+[1a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/twoSum.py
 [2]: https://oj.leetcode.com/problems/add-two-numbers/
 [3]: https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/
 [3a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/lengthOfLongestSubstring.py
