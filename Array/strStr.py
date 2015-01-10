@@ -7,8 +7,8 @@ class Solution:
     # @return an integer
     def strStr(self, haystack, needle):
         m, n = len(haystack), len(needle)
-        if(not m): return -1 if n else 0
-        if(not n): return 0
+        if(m == 0): return -1 if n else 0
+        if(n == 0): return 0
         for i in range(m):
             for j in range(n):
                 if(haystack[i + j] != needle[j]): break
