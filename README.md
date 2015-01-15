@@ -14,6 +14,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 53  | [Maximum Subarray][53] |  :star::star: | [:unlock:][53a]
 62  |	[Unique Paths][62]	 |  :star::star: | [:unlock:][62a]
 63  | [Unique Paths II ][63]  |  :star::star: | [:unlock:][63a]
+65	| [Valid Number][65] 	| :star::star::star:  | [:unlock:][65a] 
 70  |	[Climbing Stairs][70] | :star: | [:unlock:][70a]
 81	| [Search in Rotated Sorted Array II][81] | :star::star: | [:unlock:][81a]
 125 | [Valid Palindrome][125] | :star: | [:unlock:][125a]
@@ -44,6 +45,8 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [63]: https://oj.leetcode.com/problems/unique-paths/
 [62a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Dynamic-Programming/Unique-Paths.py
 [63a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Dynamic-Programming/Unique-Paths.py
+[65]: https://oj.leetcode.com/problems/valid-number/
+[65a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/ValidNumber.java
 [70]: https://oj.leetcode.com/problems/climbing-stairs/
 [70a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Dynamic-Programming/Climb-Stairs.py
 [81]: https://oj.leetcode.com/problems/search-in-rotated-sorted-array-ii/
