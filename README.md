@@ -30,7 +30,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [1a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/twoSum.py
 [2]: https://oj.leetcode.com/problems/add-two-numbers/
 [3]: https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/
-[3a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/lengthOfLongestSubstring.py
+[3a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/LengthOfLongestSubstring.java
 [8]: https://oj.leetcode.com/problems/string-to-integer-atoi/
 [8a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/reverseWords.java
 [28]: https://oj.leetcode.com/problems/implement-strstr/
