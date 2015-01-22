@@ -23,7 +23,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 152	| [Maximum Product Subarray][152]  | :star::star: | [:unlock:][152a]
 153	| [Find Minimum in Rotated Sorted Array][153]  | :star::star: | [:unlock:][153a]
 154	| [Find Minimum in Rotated Sorted Array II][154]	| :star::star::star:  | [:unlock:][154a] 
-
+163 | [Missing Ranges][163] | :star::star: | [:unlock:][163a]
 
 
 [0]: http://leetcode.com/
@@ -64,6 +64,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [153a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Search/Find-Minimum-in-Sorted-Rotated-Array.py
 [154]: https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
 [154a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Search/Find-Minimum-in-Sorted-Rotated-ArrayII.py
-
+[163]: https://oj.leetcode.com/problems/missing-ranges/
+[163a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/MissingRanges.java
 
 
