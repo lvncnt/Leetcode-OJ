@@ -17,6 +17,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 63  | [Unique Paths II ][63]  |  :star::star: | [:unlock:][63a]
 65	| [Valid Number][65] 	| :star::star::star:  | [:unlock:][65a] 
 70  |	[Climbing Stairs][70] | :star: | [:unlock:][70a]
+72	| [Edit Distance][72] | :star::star::star:  | [:unlock:][72a] 
 81	| [Search in Rotated Sorted Array II][81] | :star::star: | [:unlock:][81a]
 125 | [Valid Palindrome][125] | :star: | [:unlock:][125a]
 151	| [Reverse Words in a String][151] | :star::star: | [:unlock:][151a]
@@ -53,6 +54,8 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [65a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/ValidNumber.java
 [70]: https://oj.leetcode.com/problems/climbing-stairs/
 [70a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Dynamic-Programming/Climb-Stairs.py
+[72]: https://oj.leetcode.com/problems/edit-distance/
+[72a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/EditDistance.java
 [81]: https://oj.leetcode.com/problems/search-in-rotated-sorted-array-ii/
 [81a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Search/Search-in-Rotated-Sorted-ArrayII.py
 [125]: https://oj.leetcode.com/problems/valid-palindrome/
@@ -66,7 +69,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [154]: https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
 [154a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Search/Find-Minimum-in-Sorted-Rotated-ArrayII.py
 [161]: https://oj.leetcode.com/problems/one-edit-distance/
-[161a]: 
+[161a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/OneEditDistance.java
 [163]: https://oj.leetcode.com/problems/missing-ranges/
 [163a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/MissingRanges.java
 
