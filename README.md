@@ -8,6 +8,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 2   | [Add Two Numbers][2]        |  :star::star:  | :lock:  
 3   | [Longest Substring Without Repeating Characters][3]      |    :star::star:  | [:unlock:][3a]  
 5	  | [Longest Palindromic Substring][5] |    :star::star:  | [:unlock:][5a]  
+7	  | [Reverse Integer][7a] | :star: | [:unlock:][7a]
 8	  | [String to Integer (atoi)][8]  | :star: | [:unlock:][8a]
 28	| [Implement strStr()][28] | :star: | [:unlock:][28a]
 33  |	[Search in Rotated Sorted Array][33] | :star::star::star:  | [:unlock:][33a]  
@@ -36,6 +37,8 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [3a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/LengthOfLongestSubstring.java
 [5]: https://oj.leetcode.com/problems/longest-palindromic-substring/
 [5a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/LongestPalindrome.java
+[7]: https://oj.leetcode.com/problems/reverse-integer/
+[7a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Math/ReverseInteger.java
 [8]: https://oj.leetcode.com/problems/string-to-integer-atoi/
 [8a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/reverseWords.java
 [28]: https://oj.leetcode.com/problems/implement-strstr/
