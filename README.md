@@ -17,6 +17,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 62  |	[Unique Paths][62]	 |  :star::star: | [:unlock:][62a]
 63  | [Unique Paths II ][63]  |  :star::star: | [:unlock:][63a]
 65	| [Valid Number][65] 	| :star::star::star:  | [:unlock:][65a] 
+66  | [Plus One][66] | :star: | [:unlock:][66a]
 69	| [Sqrt(x)][69] |  :star::star: | [:unlock:][69a]
 70  |	[Climbing Stairs][70] | :star: | [:unlock:][70a]
 72	| [Edit Distance][72] | :star::star::star:  | [:unlock:][72a] 
@@ -56,6 +57,8 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [63a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Dynamic-Programming/Unique-Paths.py
 [65]: https://oj.leetcode.com/problems/valid-number/
 [65a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/ValidNumber.java
+[66]: https://oj.leetcode.com/problems/plus-one/
+[66a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Math/PlusOne.java
 [69]: https://oj.leetcode.com/problems/sqrtx/
 [69a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Math/Sqrt.java
 [70]: https://oj.leetcode.com/problems/climbing-stairs/
