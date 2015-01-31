@@ -24,6 +24,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 70  |	[Climbing Stairs][70] | :star: | [:unlock:][70a]
 72	| [Edit Distance][72] | :star::star::star:  | [:unlock:][72a] 
 81	| [Search in Rotated Sorted Array II][81] | :star::star: | [:unlock:][81a]
+88	| [Merge Sorted Array][88] | :star: | [:unlock:][88a]
 125 | [Valid Palindrome][125] | :star: | [:unlock:][125a]
 151	| [Reverse Words in a String][151] | :star::star: | [:unlock:][151a]
 152	| [Maximum Product Subarray][152]  | :star::star: | [:unlock:][152a]
@@ -73,6 +74,8 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [72a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/EditDistance.java
 [81]: https://oj.leetcode.com/problems/search-in-rotated-sorted-array-ii/
 [81a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Search/Search-in-Rotated-Sorted-ArrayII.py
+[88]: https://oj.leetcode.com/problems/merge-sorted-array/
+[88a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Linked-List/MergeSortedArray.java
 [125]: https://oj.leetcode.com/problems/valid-palindrome/
 [125a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/validPalindrome.py
 [151]: https://oj.leetcode.com/problems/reverse-words-in-a-string/
