@@ -5,7 +5,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 |#                 | Title           | Difficulty   | Solution 
 |:-------------:   |-------------    | -----|:-----: 
 |1  | [Two Sum][1]               | :star::star:  | [:unlock:][1a]
-2   | [Add Two Numbers][2]        |  :star::star:  [:unlock:][2a] 
+2   | [Add Two Numbers][2]        |  :star::star: |  [:unlock:][2a] 
 3   | [Longest Substring Without Repeating Characters][3]      |    :star::star:  | [:unlock:][3a]  
 5	  | [Longest Palindromic Substring][5] |    :star::star:  | [:unlock:][5a]  
 7	  | [Reverse Integer][7a] | :star: | [:unlock:][7a]
