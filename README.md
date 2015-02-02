@@ -12,6 +12,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 8	  | [String to Integer (atoi)][8]  | :star: | [:unlock:][8a]
 9	  | [Palindrome Number][9] | :star: | [:unlock:][9a]
 21	| [Merge Two Sorted Lists][21] | :star: | [:unlock:][21a]
+24 	| [Swap Nodes in Pairs][24] |  :star::star: | [:unlock:][24a]
 28	| [Implement strStr()][28] | :star: | [:unlock:][28a]
 33  |	[Search in Rotated Sorted Array][33] | :star::star::star:  | [:unlock:][33a]  
 35  |	[Search Insert Position][35] |  :star::star: | [:unlock:][35a]
@@ -51,6 +52,8 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [9a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Math/PalindromeNumber.java
 [21]: https://oj.leetcode.com/problems/merge-two-sorted-lists/
 [21a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Linked-List/MergeSortedList.java
+[24]: https://oj.leetcode.com/problems/swap-nodes-in-pairs/
+[24a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Linked-List/SwapNodes.java
 [28]: https://oj.leetcode.com/problems/implement-strstr/
 [28a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/strStr.java
 [33]: https://oj.leetcode.com/problems/search-in-rotated-sorted-array/
