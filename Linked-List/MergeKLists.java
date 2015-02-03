@@ -39,12 +39,35 @@ class Solution {
 	
 	/** merge two lists */ 
 	private ListNode mergeTwoLists(ListNode l1, ListNode l2){
-
+		ListNode merge = new ListNode(0), dummy = merge; 
+		while(l1 != null && l2 != null){
+			if(l1.val < l2.val){
+				dummy.next = l1; 
+				l1 = l1.next; 
+			}else{
+				dummy.next = l2; 
+				l2 = l2.next; 
+			}
+			dummy = dummy.next; 
+		}
+		if(l1 != null ) dummy.next = l1; 
+		if(l2 != null ) dummy.next = l2; 
+		return merge.next; 
 	}
 	
 	/** merge k lists */ 
 	public ListNode mergeKLists(List<ListNode> lists){
-
+		if(lists.isEmpty()) return null; 
+		int start = 0, end = lists.size() - 1; 
+		while(end > 0 ){
+			start = 0; 
+			while(start < end ){
+				lists.set(start, mergeTwoLists(lists.get(start), lists.get(end))); 
+				start ++; 
+				end --; 
+			}
+		}
+		return lists.get(0); 
 
 	}
 	
