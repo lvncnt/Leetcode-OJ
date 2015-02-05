@@ -2,38 +2,39 @@
 ========
 Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Logo/LeetCodeLogo.png "Leetcode")][0]) 
 
-|#  | Title                                                 | Difficulty   | Solution 
-|:-------------:|-------------                              | -----         |:-----: 
-|1  | [Two Sum][1]                                          | :star::star:  | [:unlock:][1a]
-2   | [Add Two Numbers][2]                                  | :star::star: |  [:unlock:][2a] 
-3   | [Longest Substring Without Repeating Characters][3]   | :star::star:  | [:unlock:][3a]  
-5	  | [Longest Palindromic Substring][5]                    | :star::star:  | [:unlock:][5a]  
-7	  | [Reverse Integer][7a]                                 | :star: | [:unlock:][7a]
-8	  | [String to Integer (atoi)][8]                         | :star: | [:unlock:][8a]
-9	  | [Palindrome Number][9]                                | :star: | [:unlock:][9a]
-21	| [Merge Two Sorted Lists][21]                          | :star: | [:unlock:][21a]
+|#  | Title                                                 | Difficulty          | Solution 
+|:--:|-------------                                         | -----               |:-----: 
+|1  | [Two Sum][1]                                          | :star::star:        | [:unlock:][1a]
+2   | [Add Two Numbers][2]                                  | :star::star:        |  [:unlock:][2a] 
+3   | [Longest Substring Without Repeating Characters][3]   | :star::star:        | [:unlock:][3a]  
+5	  | [Longest Palindromic Substring][5]                    | :star::star:        | [:unlock:][5a]  
+7	  | [Reverse Integer][7a]                                 | :star:              | [:unlock:][7a]
+8	  | [String to Integer (atoi)][8]                         | :star:              | [:unlock:][8a]
+9	  | [Palindrome Number][9]                                | :star:              | [:unlock:][9a]
+21	| [Merge Two Sorted Lists][21]                          | :star:              | [:unlock:][21a]
 23 	| [Merge k Sorted Lists][23]                            | :star::star::star:  | [:unlock:][23a]  
-24 	| [Swap Nodes in Pairs][24]                             |  :star::star: | [:unlock:][24a]
-28	| [Implement strStr()][28]                              | :star: | [:unlock:][28a]
+24 	| [Swap Nodes in Pairs][24]                             |  :star::star:       | [:unlock:][24a]
+28	| [Implement strStr()][28]                              | :star:              | [:unlock:][28a]
 33  |	[Search in Rotated Sorted Array][33]                  | :star::star::star:  | [:unlock:][33a]  
-35  |	[Search Insert Position][35]                          |  :star::star: | [:unlock:][35a]
-53  | [Maximum Subarray][53]                                |  :star::star: | [:unlock:][53a]
-62  |	[Unique Paths][62]	                                  |  :star::star: | [:unlock:][62a]
-63  | [Unique Paths II ][63]                                |  :star::star: | [:unlock:][63a]
+35  |	[Search Insert Position][35]                          |  :star::star:       | [:unlock:][35a]
+53  | [Maximum Subarray][53]                                |  :star::star:       | [:unlock:][53a]
+62  |	[Unique Paths][62]	                                  |  :star::star:       | [:unlock:][62a]
+63  | [Unique Paths II ][63]                                |  :star::star:       | [:unlock:][63a]
 65	| [Valid Number][65] 	                                  | :star::star::star:  | [:unlock:][65a] 
-66  | [Plus One][66]                                        | :star: | [:unlock:][66a]
-69	| [Sqrt(x)][69]                                         |  :star::star: | [:unlock:][69a]
-70  |	[Climbing Stairs][70]                                 | :star: | [:unlock:][70a]
+66  | [Plus One][66]                                        | :star:              | [:unlock:][66a]
+69	| [Sqrt(x)][69]                                         |  :star::star:       | [:unlock:][69a]
+70  |	[Climbing Stairs][70]                                 | :star:              | [:unlock:][70a]
 72	| [Edit Distance][72]                                   | :star::star::star:  | [:unlock:][72a] 
-81	| [Search in Rotated Sorted Array II][81]               | :star::star: | [:unlock:][81a]
-88	| [Merge Sorted Array][88]                              | :star: | [:unlock:][88a]
-125 | [Valid Palindrome][125]                               | :star: | [:unlock:][125a]
-151	| [Reverse Words in a String][151]                      | :star::star: | [:unlock:][151a]
-152	| [Maximum Product Subarray][152]                       | :star::star: | [:unlock:][152a]
-153	| [Find Minimum in Rotated Sorted Array][153]           | :star::star: | [:unlock:][153a]
+81	| [Search in Rotated Sorted Array II][81]               | :star::star:        | [:unlock:][81a]
+88	| [Merge Sorted Array][88]                              | :star:              | [:unlock:][88a]
+125 | [Valid Palindrome][125]                               | :star:              | [:unlock:][125a]
+138 |	[Copy List with Random Pointer][138]                  | :star::star::star:  | [:unlock:][138a] 
+151	| [Reverse Words in a String][151]                      | :star::star:        | [:unlock:][151a]
+152	| [Maximum Product Subarray][152]                       | :star::star:        | [:unlock:][152a]
+153	| [Find Minimum in Rotated Sorted Array][153]           | :star::star:        | [:unlock:][153a]
 154	| [Find Minimum in Rotated Sorted Array II][154]      	| :star::star::star:  | [:unlock:][154a] 
-161	| [One Edit Distance][161]                              | :star::star: | [:unlock:][161a]
-163 | [Missing Ranges][163]                                 | :star::star: | [:unlock:][163a]
+161	| [One Edit Distance][161]                              | :star::star:        | [:unlock:][161a]
+163 | [Missing Ranges][163]                                 | :star::star:        | [:unlock:][163a]
 
 
 [0]: http://leetcode.com/
@@ -85,6 +86,8 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [88a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Linked-List/MergeSortedArray.java
 [125]: https://oj.leetcode.com/problems/valid-palindrome/
 [125a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/validPalindrome.py
+[138]: https://oj.leetcode.com/problems/copy-list-with-random-pointer/
+[138a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Linked-List/CopyRandomList.java
 [151]: https://oj.leetcode.com/problems/reverse-words-in-a-string/
 [151a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/reverseWords.java
 [152]: https://oj.leetcode.com/problems/maximum-product-subarray/
