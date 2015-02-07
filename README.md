@@ -1,6 +1,6 @@
 ![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Logo/logo.png "Logo")
 ========
-Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Logo/LeetCodeLogo.png "Leetcode")][0]) 
+Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Logo/LeetCodeLogo.png "Leetcode")][0])
 
 |#  | Title                                                 | Difficulty          | Solution 
 |:--:|-------------                                         | -----               |:-----: 
@@ -27,6 +27,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 72	| [Edit Distance][72]                                   | :star::star::star:  | [:unlock:][72a] 
 81	| [Search in Rotated Sorted Array II][81]               | :star::star:        | [:unlock:][81a]
 88	| [Merge Sorted Array][88]                              | :star:              | [:unlock:][88a]
+98  | [Validate Binary Search Tree][98]                     | :star::star:        | [:unlock:][98a]
 125 | [Valid Palindrome][125]                               | :star:              | [:unlock:][125a]
 138 |	[Copy List with Random Pointer][138]                  | :star::star::star:  | [:unlock:][138a] 
 151	| [Reverse Words in a String][151]                      | :star::star:        | [:unlock:][151a]
@@ -35,7 +36,6 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 154	| [Find Minimum in Rotated Sorted Array II][154]      	| :star::star::star:  | [:unlock:][154a] 
 161	| [One Edit Distance][161]                              | :star::star:        | [:unlock:][161a]
 163 | [Missing Ranges][163]                                 | :star::star:        | [:unlock:][163a]
-
 
 [0]: http://leetcode.com/
 [1]: https://oj.leetcode.com/problems/two-sum/
@@ -84,6 +84,8 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [81a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Search/Search-in-Rotated-Sorted-ArrayII.py
 [88]: https://oj.leetcode.com/problems/merge-sorted-array/
 [88a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Linked-List/MergeSortedArray.java
+[98]: https://oj.leetcode.com/problems/validate-binary-search-tree/
+[98a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Tree/BinarySearchTree.java
 [125]: https://oj.leetcode.com/problems/valid-palindrome/
 [125a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/validPalindrome.py
 [138]: https://oj.leetcode.com/problems/copy-list-with-random-pointer/
