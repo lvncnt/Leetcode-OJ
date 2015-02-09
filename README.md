@@ -28,6 +28,8 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 81	| [Search in Rotated Sorted Array II][81]               | :star::star:        | [:unlock:][81a]
 88	| [Merge Sorted Array][88]                              | :star:              | [:unlock:][88a]
 98  | [Validate Binary Search Tree][98]                     | :star::star:        | [:unlock:][98a]
+104 | [Maximum Depth of Binary Tree][104]                   | :star:              | [:unlock:][104a]
+111 | [Minimum Depth of Binary Tree][111]                   | :star:              | [:unlock:][111a]
 125 | [Valid Palindrome][125]                               | :star:              | [:unlock:][125a]
 138 |	[Copy List with Random Pointer][138]                  | :star::star::star:  | [:unlock:][138a] 
 151	| [Reverse Words in a String][151]                      | :star::star:        | [:unlock:][151a]
@@ -86,6 +88,10 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [88a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Linked-List/MergeSortedArray.java
 [98]: https://oj.leetcode.com/problems/validate-binary-search-tree/
 [98a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Tree/BinarySearchTree.java
+[104]: https://oj.leetcode.com/problems/maximum-depth-of-binary-tree/
+[104a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Tree/DepthBinaryTree.java
+[111]: https://oj.leetcode.com/problems/minimum-depth-of-binary-tree/
+[111a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Tree/DepthBinaryTree.java
 [125]: https://oj.leetcode.com/problems/valid-palindrome/
 [125a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/validPalindrome.py
 [138]: https://oj.leetcode.com/problems/copy-list-with-random-pointer/
