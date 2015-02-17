@@ -33,6 +33,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 109 | [Convert Sorted List to Binary Search Tree][109]      | :star::star:        | [:unlock:][109a]
 110 | [Balanced Binary Tree][110]			    | :star:              | [:unlock:][110a]
 111 | [Minimum Depth of Binary Tree][111]                   | :star:              | [:unlock:][111a]
+124 | [Binary Tree Maximum Path Sum][124]                   | :star::star::star:  | [:unlock:][124a]
 125 | [Valid Palindrome][125]                               | :star:              | [:unlock:][125a]
 138 | [Copy List with Random Pointer][138]                  | :star::star::star:  | [:unlock:][138a] 
 151 | [Reverse Words in a String][151]                      | :star::star:        | [:unlock:][151a]
@@ -101,6 +102,8 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [109a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Tree/SortedListToBST.java
 [111]: https://oj.leetcode.com/problems/minimum-depth-of-binary-tree/
 [111a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Tree/DepthBinaryTree.java
+[124]: https://oj.leetcode.com/problems/binary-tree-maximum-path-sum/
+[124a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Tree/MaxPathSum/Solution.java
 [125]: https://oj.leetcode.com/problems/valid-palindrome/
 [125a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/validPalindrome.py
 [138]: https://oj.leetcode.com/problems/copy-list-with-random-pointer/
