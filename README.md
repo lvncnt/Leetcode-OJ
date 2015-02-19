@@ -35,6 +35,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 111 | [Minimum Depth of Binary Tree][111]                   | :star:              | [:unlock:][111a]
 124 | [Binary Tree Maximum Path Sum][124]                   | :star::star::star:  | [:unlock:][124a]
 125 | [Valid Palindrome][125]                               | :star:              | [:unlock:][125a]
+136 | [Single Number][136]                                  | :star::star:        | [:unlock:][136a]
 138 | [Copy List with Random Pointer][138]                  | :star::star::star:  | [:unlock:][138a] 
 151 | [Reverse Words in a String][151]                      | :star::star:        | [:unlock:][151a]
 152 | [Maximum Product Subarray][152]                       | :star::star:        | [:unlock:][152a]
@@ -107,6 +108,8 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [124a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Tree/MaxPathSum/Solution.java
 [125]: https://oj.leetcode.com/problems/valid-palindrome/
 [125a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/validPalindrome.py
+[136]: https://oj.leetcode.com/problems/single-number/
+[136a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Single-Number/SingleNumber/Solution.java
 [138]: https://oj.leetcode.com/problems/copy-list-with-random-pointer/
 [138a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Linked-List/CopyRandomList.java
 [151]: https://oj.leetcode.com/problems/reverse-words-in-a-string/
