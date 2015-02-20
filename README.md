@@ -18,6 +18,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 33  | [Search in Rotated Sorted Array][33]                  | :star::star::star:  | [:unlock:][33a]  
 35  | [Search Insert Position][35]                          |  :star::star:       | [:unlock:][35a]
 53  | [Maximum Subarray][53]                                |  :star::star:       | [:unlock:][53a]
+54  | [Spiral Matrix][54]                                   |  :star::star:       | [:unlock:][54a]
 62  | [Unique Paths][62]	                            |  :star::star:       | [:unlock:][62a]
 63  | [Unique Paths II ][63]                                |  :star::star:       | [:unlock:][63a]
 65  | [Valid Number][65] 	                            | :star::star::star:  | [:unlock:][65a] 
@@ -74,6 +75,8 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [35a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Search/Search-Insert-Position.py
 [53]: https://oj.leetcode.com/problems/maximum-subarray/
 [53a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Dynamic-Programming/Maximum-Sum-Subarray.py
+[54]: https://oj.leetcode.com/problems/spiral-matrix/
+[54a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Misc/SpiralMatrix/Solution.java
 [62]: https://oj.leetcode.com/problems/unique-paths/
 [63]: https://oj.leetcode.com/problems/unique-paths/
 [62a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Dynamic-Programming/Unique-Paths.py
