@@ -11,6 +11,8 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 7   | [Reverse Integer][7a]                                 | :star:              | [:unlock:][7a]
 8   | [String to Integer (atoi)][8]                         | :star:              | [:unlock:][8a]
 9   | [Palindrome Number][9]                                | :star:              | [:unlock:][9a]
+12  | [Integer to Roman]                                    |  :star::star:       | [:unlock:][12a]
+13  | [Roman to Integer]                                    | :star:              | [:unlock:][13a]
 21  | [Merge Two Sorted Lists][21]                          | :star:              | [:unlock:][21a]
 23  | [Merge k Sorted Lists][23]                            | :star::star::star:  | [:unlock:][23a]  
 24  | [Swap Nodes in Pairs][24]                             |  :star::star:       | [:unlock:][24a]
@@ -61,6 +63,10 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [8a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/reverseWords.java
 [9]: https://oj.leetcode.com/problems/palindrome-number/
 [9a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Math/PalindromeNumber.java
+[12]: https://oj.leetcode.com/problems/integer-to-roman/
+[12a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Misc/RomanInteger/Solution.java
+[13]: https://oj.leetcode.com/problems/roman-to-integer/
+[13a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Misc/RomanInteger/Solution.java
 [21]: https://oj.leetcode.com/problems/merge-two-sorted-lists/
 [21a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Linked-List/MergeSortedList.java
 [23]: https://oj.leetcode.com/problems/merge-k-sorted-lists/
