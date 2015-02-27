@@ -40,7 +40,8 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 125 | [Valid Palindrome][125]                               | :star:              | [:unlock:][125a]
 133 | [Clone Graph][133]                                    | :star::star:        | [:unlock:][133a]
 136 | [Single Number][136]                                  | :star::star:        | [:unlock:][136a]
-138 | [Copy List with Random Pointer][138]                  | :star::star::star:  | [:unlock:][138a] 
+138 | [Copy List with Random Pointer][138]                  | :star::star::star:  | [:unlock:][138a]
+150 | [Evaluate Reverse Polish Notation][150]               | :star::star:        | [:unlock:][150a]
 151 | [Reverse Words in a String][151]                      | :star::star:        | [:unlock:][151a]
 152 | [Maximum Product Subarray][152]                       | :star::star:        | [:unlock:][152a]
 153 | [Find Minimum in Rotated Sorted Array][153]           | :star::star:        | [:unlock:][153a]
@@ -125,6 +126,8 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [136a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Single-Number/SingleNumber/Solution.java
 [138]: https://oj.leetcode.com/problems/copy-list-with-random-pointer/
 [138a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Linked-List/CopyRandomList.java
+[150]: https://oj.leetcode.com/problems/evaluate-reverse-polish-notation/
+[150a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Stack/ReversePolishNotation/Solution.java
 [151]: https://oj.leetcode.com/problems/reverse-words-in-a-string/
 [151a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/reverseWords.java
 [152]: https://oj.leetcode.com/problems/maximum-product-subarray/
