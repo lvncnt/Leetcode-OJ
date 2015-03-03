@@ -13,6 +13,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 9   | [Palindrome Number][9]                                | :star:              | [:unlock:][9a]
 12  | [Integer to Roman][12]                                |  :star::star:       | [:unlock:][12a]
 13  | [Roman to Integer][13]                                | :star:              | [:unlock:][13a]
+20  | [Valid Parentheses][20]                               | :star:              | [:unlock:][20a]
 21  | [Merge Two Sorted Lists][21]                          | :star:              | [:unlock:][21a]
 23  | [Merge k Sorted Lists][23]                            | :star::star::star:  | [:unlock:][23a]  
 24  | [Swap Nodes in Pairs][24]                             |  :star::star:       | [:unlock:][24a]
@@ -70,6 +71,8 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [12a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Misc/RomanInteger/Solution.java
 [13]: https://oj.leetcode.com/problems/roman-to-integer/
 [13a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Misc/RomanInteger/Solution.java
+[20]: https://oj.leetcode.com/problems/valid-parentheses/
+[20a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Stack/ValidParentheses/Solution.java
 [21]: https://oj.leetcode.com/problems/merge-two-sorted-lists/
 [21a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Linked-List/MergeSortedList.java
 [23]: https://oj.leetcode.com/problems/merge-k-sorted-lists/
