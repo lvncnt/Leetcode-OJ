@@ -11,22 +11,23 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 7   | [Reverse Integer][7a]                                 | :star:              | [:unlock:][7a]
 8   | [String to Integer (atoi)][8]                         | :star:              | [:unlock:][8a]
 9   | [Palindrome Number][9]                                | :star:              | [:unlock:][9a]
-12  | [Integer to Roman][12]                                |  :star::star:       | [:unlock:][12a]
+12  | [Integer to Roman][12]                                | :star::star:        | [:unlock:][12a]
 13  | [Roman to Integer][13]                                | :star:              | [:unlock:][13a]
 20  | [Valid Parentheses][20]                               | :star:              | [:unlock:][20a]
 21  | [Merge Two Sorted Lists][21]                          | :star:              | [:unlock:][21a]
+22  | [Generate Parentheses][22]                            | :star::star:        | [:unlock:][22a]
 23  | [Merge k Sorted Lists][23]                            | :star::star::star:  | [:unlock:][23a]  
-24  | [Swap Nodes in Pairs][24]                             |  :star::star:       | [:unlock:][24a]
+24  | [Swap Nodes in Pairs][24]                             | :star::star:        | [:unlock:][24a]
 28  | [Implement strStr()][28]                              | :star:              | [:unlock:][28a]
 33  | [Search in Rotated Sorted Array][33]                  | :star::star::star:  | [:unlock:][33a]  
-35  | [Search Insert Position][35]                          |  :star::star:       | [:unlock:][35a]
-53  | [Maximum Subarray][53]                                |  :star::star:       | [:unlock:][53a]
-54  | [Spiral Matrix][54]                                   |  :star::star:       | [:unlock:][54a]
-62  | [Unique Paths][62]	                            |  :star::star:       | [:unlock:][62a]
-63  | [Unique Paths II ][63]                                |  :star::star:       | [:unlock:][63a]
+35  | [Search Insert Position][35]                          | :star::star:        | [:unlock:][35a]
+53  | [Maximum Subarray][53]                                | :star::star:        | [:unlock:][53a]
+54  | [Spiral Matrix][54]                                   | :star::star:        | [:unlock:][54a]
+62  | [Unique Paths][62]	                            | :star::star:        | [:unlock:][62a]
+63  | [Unique Paths II ][63]                                | :star::star:        | [:unlock:][63a]
 65  | [Valid Number][65] 	                            | :star::star::star:  | [:unlock:][65a] 
 66  | [Plus One][66]                                        | :star:              | [:unlock:][66a]
-69  | [Sqrt(x)][69]                                         |  :star::star:       | [:unlock:][69a]
+69  | [Sqrt(x)][69]                                         | :star::star:        | [:unlock:][69a]
 70  | [Climbing Stairs][70]                                 | :star:              | [:unlock:][70a]
 72  | [Edit Distance][72]                                   | :star::star::star:  | [:unlock:][72a] 
 81  | [Search in Rotated Sorted Array II][81]               | :star::star:        | [:unlock:][81a]
@@ -75,6 +76,8 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [20a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Stack/ValidParentheses/Solution.java
 [21]: https://oj.leetcode.com/problems/merge-two-sorted-lists/
 [21a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Linked-List/MergeSortedList.java
+[22]: https://oj.leetcode.com/problems/generate-parentheses/
+[22a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Stack/GenerateParentheses/Solution.java
 [23]: https://oj.leetcode.com/problems/merge-k-sorted-lists/
 [23a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Linked-List/MergeKLists.java
 [24]: https://oj.leetcode.com/problems/swap-nodes-in-pairs/
