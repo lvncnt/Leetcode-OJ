@@ -94,7 +94,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [54a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Misc/SpiralMatrix/Solution.java
 [62]: https://oj.leetcode.com/problems/unique-paths/
 [63]: https://oj.leetcode.com/problems/unique-paths/
-[62a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Dynamic-Programming/Unique-Paths.py
+[62a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Dynamic-Programming/UniquePaths/Solution.java
 [63a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Dynamic-Programming/Unique-Paths.py
 [65]: https://oj.leetcode.com/problems/valid-number/
 [65a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/ValidNumber.java
