@@ -103,7 +103,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [69]: https://oj.leetcode.com/problems/sqrtx/
 [69a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Math/Sqrt.java
 [70]: https://oj.leetcode.com/problems/climbing-stairs/
-[70a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Dynamic-Programming/Climb-Stairs.py
+[70a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Dynamic-Programming/ClimbStairs/Solution.java
 [72]: https://oj.leetcode.com/problems/edit-distance/
 [72a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/EditDistance.java
 [81]: https://oj.leetcode.com/problems/search-in-rotated-sorted-array-ii/
