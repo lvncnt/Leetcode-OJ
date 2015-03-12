@@ -92,7 +92,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [35]: https://oj.leetcode.com/problems/search-insert-position/
 [35a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Search/Search-Insert-Position.py
 [53]: https://oj.leetcode.com/problems/maximum-subarray/
-[53a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Dynamic-Programming/Maximum-Sum-Subarray.py
+[53a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Dynamic-Programming/MaximumSubarray/Solution.java
 [54]: https://oj.leetcode.com/problems/spiral-matrix/
 [54a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Misc/SpiralMatrix/Solution.java
 [62]: https://oj.leetcode.com/problems/unique-paths/
