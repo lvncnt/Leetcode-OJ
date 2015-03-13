@@ -90,7 +90,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [33]: https://oj.leetcode.com/problems/search-in-rotated-sorted-array/
 [33a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Search/Search-in-Rotated-Sorted-Array.py
 [35]: https://oj.leetcode.com/problems/search-insert-position/
-[35a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Search/Search-Insert-Position.py
+[35a]: https://github.com/lvncnt/Leetcode-OJ/raw/master/Dynamic-Programming/MaximumSubarray/src/Solution.java
 [53]: https://oj.leetcode.com/problems/maximum-subarray/
 [53a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Dynamic-Programming/MaximumSubarray/Solution.java
 [54]: https://oj.leetcode.com/problems/spiral-matrix/
@@ -140,7 +140,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [151]: https://oj.leetcode.com/problems/reverse-words-in-a-string/
 [151a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/reverseWords.java
 [152]: https://oj.leetcode.com/problems/maximum-product-subarray/
-[152a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Dynamic-Programming/Maximum-Product-Subarray.py
+[152a]: https://github.com/lvncnt/Leetcode-OJ/raw/master/Dynamic-Programming/MaximumSubarray/src/Solution.java
 [153]: https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array/
 [153a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Search/Find-Minimum-in-Sorted-Rotated-Array.py
 [154]: https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
