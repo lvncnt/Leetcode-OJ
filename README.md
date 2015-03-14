@@ -90,7 +90,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [33]: https://oj.leetcode.com/problems/search-in-rotated-sorted-array/
 [33a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Search/Search-in-Rotated-Sorted-Array.py
 [35]: https://oj.leetcode.com/problems/search-insert-position/
-[35a]: https://github.com/lvncnt/Leetcode-OJ/raw/master/Binary-Search/Search-Insert-Position.py
+[35a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Search/SearchInsertPosition/src/Solution.java
 [53]: https://oj.leetcode.com/problems/maximum-subarray/
 [53a]: https://github.com/lvncnt/Leetcode-OJ/blob/master/Dynamic-Programming/MaximumSubarray/src/Solution.java
 [54]: https://oj.leetcode.com/problems/spiral-matrix/
