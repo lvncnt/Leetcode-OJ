@@ -88,7 +88,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [28]: https://oj.leetcode.com/problems/implement-strstr/
 [28a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/strStr.java
 [33]: https://oj.leetcode.com/problems/search-in-rotated-sorted-array/
-[33a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Search/Search-in-Rotated-Sorted-Array.py
+[33a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Search/SearchRotatedSortedArray/src/Search.java
 [35]: https://oj.leetcode.com/problems/search-insert-position/
 [35a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Search/SearchInsertPosition/src/Solution.java
 [53]: https://oj.leetcode.com/problems/maximum-subarray/
@@ -110,7 +110,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [72]: https://oj.leetcode.com/problems/edit-distance/
 [72a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/EditDistance.java
 [81]: https://oj.leetcode.com/problems/search-in-rotated-sorted-array-ii/
-[81a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Search/Search-in-Rotated-Sorted-ArrayII.py
+[81a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Search/SearchRotatedSortedArray/src/Search.java
 [88]: https://oj.leetcode.com/problems/merge-sorted-array/
 [88a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Linked-List/MergeSortedArray.java
 [98]: https://oj.leetcode.com/problems/validate-binary-search-tree/
@@ -142,9 +142,9 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [152]: https://oj.leetcode.com/problems/maximum-product-subarray/
 [152a]: https://github.com/lvncnt/Leetcode-OJ/blob/master/Dynamic-Programming/MaximumSubarray/src/Solution.java
 [153]: https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array/
-[153a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Search/Find-Minimum-in-Sorted-Rotated-Array.py
+[153a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Search/SearchRotatedSortedArray/src/FindMin.java
 [154]: https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
-[154a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Search/Find-Minimum-in-Sorted-Rotated-ArrayII.py
+[154a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Search/SearchRotatedSortedArray/src/FindMin.java
 [155]: https://oj.leetcode.com/problems/min-stack/
 [155a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Stack/MinStack/Solution.java
 [156]: https://oj.leetcode.com/problems/binary-tree-upside-down/
