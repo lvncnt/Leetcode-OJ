@@ -148,6 +148,49 @@ public class Solution {
     	} 
     	return output;
     }
+
+    /**
+     * Given a binary tree, return the zigzag level order traversal of its nodes' values. 
+     * (ie, from left to right, then right to left for the next level and alternate between).
+     * @param root
+     * @return
+     */
+    public List<List<Integer>> zigzagLevelOrder(TreeNode root){
+    	List<List<Integer>> output = new ArrayList<>(); 
+    	if(root == null) return output; 
+    	Queue<TreeNode> queue = new LinkedList<>();
+    	List<Integer> list = new ArrayList<>(); 
+    	int curr, next ; 
+    	boolean isOdd = true; 
+    	curr = next = 0; 
+    	queue.add(root); curr ++;
+    	while(!queue.isEmpty()){
+    		TreeNode temp = queue.poll(); 
+    		curr --; 
+    		if(isOdd){
+    			list.add(temp.val); 
+    		}else{
+    			list.add(0,temp.val); 
+    		}
+
+    		if(temp.left != null){
+    			queue.add(temp.left); 
+    			next ++; 
+    		}
+    		if(temp.right != null){
+    			queue.add(temp.right); 
+    			next ++; 
+    		}
+    		if(curr == 0){
+    			curr = next; 
+    			next = 0; 
+    			isOdd = !isOdd; 
+    			output.add(list); 
+    			list = new ArrayList<>(); 
+    		}
+    	}
+    	return output; 
+    }
     
     public static void main(String[] args) {
     	BinaryTree tree = new BinaryTree(); 
@@ -162,6 +205,9 @@ public class Solution {
      	
      	System.out.println("\nReverse Order Traversal: ");
      	System.out.println(new Solution().levelOrderBottom(tree.getRoot()));
+
+     	System.out.println("\nZigzag Level Order Traversal");
+     	System.out.println(new Solution().zigzagLevelOrder(tree.getRoot()));
 	}
 }
 
