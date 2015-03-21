@@ -5,12 +5,6 @@ import java.util.List;
 import java.util.Queue;
 
 /**
- * Binary Tree Level Order Traversal 
- * Given a binary tree, return the level order traversal of its nodes' values. 
- */
-
-
-/**
  * Definition for tree node
  * 
  */
@@ -45,8 +39,7 @@ class BinaryTree{
 			node.right = new TreeNode(val); 
 		}else{
 			add(node.left, val); 
-		}
-		
+		}		
 	}
 	
 	public String toString(){
@@ -74,8 +67,9 @@ class BinaryTree{
 
 public class Solution {
 	
-	/*
-	 * METHOD: BFS (Use Queue)
+	/**
+	 * Given a binary tree, return the level order traversal of its nodes' values. 
+	 * (ie, from left to right, level by level).
 	 * @param root
 	 * @return
 	 */
@@ -105,6 +99,7 @@ public class Solution {
     			next ++; 
     		}
     		if(current == 0){
+    			//System.out.println();
     			output.add(list); 
     			list = new ArrayList<>(); 
     			current = next;
@@ -115,14 +110,58 @@ public class Solution {
         return output; 
     }
     
+    /**
+     * Given a binary tree, return the bottom-up level order traversal of its nodes' values. 
+     * (ie, from left to right, level by level from leaf to root).
+     * @param root
+     * @return
+     */
+    public List<List<Integer>> levelOrderBottom(TreeNode root){
+    	List<List<Integer>> output = new ArrayList<>(); 
+    	if(root == null) return output; 
+    	Queue<TreeNode> queue= new LinkedList<>(); 
+    	List<Integer> list = new ArrayList<>(); 
+    	int curr, next; 
+    	curr = next = 0; 
+    	
+    	queue.add(root); 
+    	curr ++; 
+    	while(!queue.isEmpty()){
+
+    		TreeNode temp = queue.poll(); 
+    		curr --; 
+    		list.add(temp.val); 
+    		if(temp.left != null){
+    			queue.add(temp.left); 
+    			next ++; 
+    		}
+    		if(temp.right != null){
+    			queue.add(temp.right); 
+    			next ++; 
+    		}
+    		if(curr ==0){
+    			curr = next; 
+    			next = 0; 
+    			output.add(0, list); 
+    			list = new ArrayList<>(); 
+    		}  
+    	} 
+    	return output;
+    }
+    
     public static void main(String[] args) {
     	BinaryTree tree = new BinaryTree(); 
     	int[] num = {3,9,20,15,7};
-    	for(int i: num) tree.add(i);
-      	System.out.println("Binary Tree: " + tree.toString());
-	System.out.println("Level Order Traverse Tree: ");
+    	for(int i: num)tree.add(i);
+
+    	System.out.println("\nBinary Tree: ");
+     	System.out.println(tree.toString());
+    	System.out.println("\nLevel Order Traversal: ");
      	System.out.println(new Solution().levelOrder(tree.getRoot()));
      	System.out.println(new Solution().levelOrder(null));
+     	
+     	System.out.println("\nReverse Order Traversal: ");
+     	System.out.println(new Solution().levelOrderBottom(tree.getRoot()));
 	}
 }
 
