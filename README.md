@@ -22,6 +22,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 28  | [Implement strStr()][28]                              | :star:              | [:unlock:][28a]
 33  | [Search in Rotated Sorted Array][33]                  | :star::star::star:  | [:unlock:][33a]  
 35  | [Search Insert Position][35]                          | :star::star:        | [:unlock:][35a]
+50  | [Pow(x, n)][50]                                       | :star::star:        | [:unlock:][50a]
 53  | [Maximum Subarray][53]                                | :star::star:        | [:unlock:][53a]
 54  | [Spiral Matrix][54]                                   | :star::star:        | [:unlock:][54a]
 62  | [Unique Paths][62]	                            | :star::star:        | [:unlock:][62a]
@@ -94,6 +95,8 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [33a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Search/SearchRotatedSortedArray/src/Search.java
 [35]: https://oj.leetcode.com/problems/search-insert-position/
 [35a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Search/SearchInsertPosition/src/Solution.java
+[50]: https://leetcode.com/problems/powx-n/
+[50a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Math/Pow/src/Solution.java
 [53]: https://oj.leetcode.com/problems/maximum-subarray/
 [53a]: https://github.com/lvncnt/Leetcode-OJ/blob/master/Dynamic-Programming/MaximumSubarray/src/Solution.java
 [54]: https://oj.leetcode.com/problems/spiral-matrix/
@@ -107,7 +110,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [66]: https://oj.leetcode.com/problems/plus-one/
 [66a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Math/PlusOne.java
 [69]: https://oj.leetcode.com/problems/sqrtx/
-[69a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Math/Sqrt.java
+[69a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Math/Sqrt/src/Solution.java
 [70]: https://oj.leetcode.com/problems/climbing-stairs/
 [70a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Dynamic-Programming/ClimbStairs/Solution.java
 [72]: https://oj.leetcode.com/problems/edit-distance/
