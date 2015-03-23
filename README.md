@@ -22,6 +22,8 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 28  | [Implement strStr()][28]                              | :star:              | [:unlock:][28a]
 33  | [Search in Rotated Sorted Array][33]                  | :star::star::star:  | [:unlock:][33a]  
 35  | [Search Insert Position][35]                          | :star::star:        | [:unlock:][35a]
+46  | [Permutations][46]                                    | :star::star:        | [:unlock:][46a]
+47  | [Permutations II][47]                                 | :star::star::star:  | [:unlock:][47a]
 50  | [Pow(x, n)][50]                                       | :star::star:        | [:unlock:][50a]
 53  | [Maximum Subarray][53]                                | :star::star:        | [:unlock:][53a]
 54  | [Spiral Matrix][54]                                   | :star::star:        | [:unlock:][54a]
@@ -95,6 +97,10 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [33a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Search/SearchRotatedSortedArray/src/Search.java
 [35]: https://oj.leetcode.com/problems/search-insert-position/
 [35a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Search/SearchInsertPosition/src/Solution.java
+[46]: https://leetcode.com/problems/permutations/
+[46a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Math/Permutations/src/Solution.java
+[47]: https://leetcode.com/problems/permutations-ii/
+[47a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Math/Permutations/src/Solution.java
 [50]: https://leetcode.com/problems/powx-n/
 [50a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Math/Pow/src/Solution.java
 [53]: https://oj.leetcode.com/problems/maximum-subarray/
