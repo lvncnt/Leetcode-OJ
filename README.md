@@ -24,6 +24,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 35  | [Search Insert Position][35]                          | :star::star:        | [:unlock:][35a]
 46  | [Permutations][46]                                    | :star::star:        | [:unlock:][46a]
 47  | [Permutations II][47]                                 | :star::star::star:  | [:unlock:][47a]
+48  | [Rotate Image][48]                                    | :star::star:        | [:unlock:][48a]
 50  | [Pow(x, n)][50]                                       | :star::star:        | [:unlock:][50a]
 53  | [Maximum Subarray][53]                                | :star::star:        | [:unlock:][53a]
 54  | [Spiral Matrix][54]                                   | :star::star:        | [:unlock:][54a]
@@ -60,6 +61,8 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 156 | [Binary Tree Upside Down][156]                        | :star::star:        | [:unlock:][156a]
 161 | [One Edit Distance][161]                              | :star::star:        | [:unlock:][161a]
 163 | [Missing Ranges][163]                                 | :star::star:        | [:unlock:][163a]
+189 | [Rotate Array][189]                                   | :star:              | [:unlock:][189a]
+
 
 [0]: http://leetcode.com/
 [1]: https://oj.leetcode.com/problems/two-sum/
@@ -102,6 +105,8 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [46a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Math/Permutations/src/Solution.java
 [47]: https://leetcode.com/problems/permutations-ii/
 [47a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Math/Permutations/src/Solution.java
+[48]: https://leetcode.com/problems/rotate-image/
+[48a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/Rotate/src/Solution.java
 [50]: https://leetcode.com/problems/powx-n/
 [50a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Math/Pow/src/Solution.java
 [53]: https://oj.leetcode.com/problems/maximum-subarray/
@@ -174,5 +179,6 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [161a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/OneEditDistance.java
 [163]: https://oj.leetcode.com/problems/missing-ranges/
 [163a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/MissingRanges.java
-
+[189]: https://leetcode.com/problems/rotate-array/
+[189a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/Rotate/src/Solution.java
 
