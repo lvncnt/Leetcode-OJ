@@ -36,6 +36,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 72  | [Edit Distance][72]                                   | :star::star::star:  | [:unlock:][72a] 
 81  | [Search in Rotated Sorted Array II][81]               | :star::star:        | [:unlock:][81a]
 88  | [Merge Sorted Array][88]                              | :star:              | [:unlock:][88a]
+92  | [Reverse Linked List II][92]                          | :star::star:        | [:unlock:][92a]
 98  | [Validate Binary Search Tree][98]                     | :star::star:        | [:unlock:][98a]
 102 | [Binary Tree Level Order Traversal][102]              | :star:              | [:unlock:][102a]
 103 | [Binary Tree Zigzag Level Order Traversal][103]       | :star::star:        | [:unlock:][103a]
@@ -125,6 +126,8 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [81a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Search/SearchRotatedSortedArray/src/Search.java
 [88]: https://oj.leetcode.com/problems/merge-sorted-array/
 [88a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Linked-List/MergeSortedArray.java
+[92]: https://leetcode.com/problems/reverse-linked-list-ii/
+[92a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Linked-List/ReverseList/src/Solution.java
 [98]: https://oj.leetcode.com/problems/validate-binary-search-tree/
 [98a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Tree/BinarySearchTree.java
 [102]: https://leetcode.com/problems/binary-tree-level-order-traversal/
