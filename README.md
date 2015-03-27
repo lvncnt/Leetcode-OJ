@@ -13,8 +13,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 9   | [Palindrome Number][9]                                | :star:              | [:unlock:][9a]
 12  | [Integer to Roman][12]                                | :star::star:        | [:unlock:][12a]
 13  | [Roman to Integer][13]                                | :star:              | [:unlock:][13a]
-15  | [3Sum][15]                                            | :star::star:        | [:unlock:][15a]
-19  | [Remove Nth Node From End of List][19]                | :star:              | [:unlock:][19a]
+15  | [3Sum][15]                                            |:star::star:         | [:unlock:][15a]
 20  | [Valid Parentheses][20]                               | :star:              | [:unlock:][20a]
 21  | [Merge Two Sorted Lists][21]                          | :star:              | [:unlock:][21a]
 22  | [Generate Parentheses][22]                            | :star::star:        | [:unlock:][22a]
@@ -37,8 +36,6 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 70  | [Climbing Stairs][70]                                 | :star:              | [:unlock:][70a]
 72  | [Edit Distance][72]                                   | :star::star::star:  | [:unlock:][72a] 
 81  | [Search in Rotated Sorted Array II][81]               | :star::star:        | [:unlock:][81a]
-82  | [Remove Duplicates from Sorted List II][82]           | :star:              | [:unlock:][82a]
-83  | [Remove Duplicates from Sorted List][83]              | :star:              | [:unlock:][83a]
 88  | [Merge Sorted Array][88]                              | :star:              | [:unlock:][88a]
 92  | [Reverse Linked List II][92]                          | :star::star:        | [:unlock:][92a]
 98  | [Validate Binary Search Tree][98]                     | :star::star:        | [:unlock:][98a]
@@ -88,8 +85,6 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [13a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Misc/RomanInteger/Solution.java
 [15]: https://leetcode.com/problems/3sum/
 [15a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/ThreeSum.java
-[19]: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
-[19a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Linked-List/DeleteDuplicates/src/Solution.java
 [20]: https://oj.leetcode.com/problems/valid-parentheses/
 [20a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Stack/ValidParentheses/Solution.java
 [21]: https://oj.leetcode.com/problems/merge-two-sorted-lists/
@@ -134,10 +129,6 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [72a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/EditDistance.java
 [81]: https://oj.leetcode.com/problems/search-in-rotated-sorted-array-ii/
 [81a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Search/SearchRotatedSortedArray/src/Search.java
-[82]: https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/
-[82a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Linked-List/DeleteDuplicates/src/Solution.java
-[83]: https://leetcode.com/problems/remove-duplicates-from-sorted-list/
-[83a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Linked-List/DeleteDuplicates/src/Solution.java
 [88]: https://oj.leetcode.com/problems/merge-sorted-array/
 [88a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Linked-List/MergeSortedArray.java
 [92]: https://leetcode.com/problems/reverse-linked-list-ii/
@@ -190,4 +181,3 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [163a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/MissingRanges.java
 [189]: https://leetcode.com/problems/rotate-array/
 [189a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/Rotate/src/Solution.java
-
