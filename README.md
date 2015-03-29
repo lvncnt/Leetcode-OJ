@@ -89,11 +89,11 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [19]: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 [19a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Linked-List/DeleteDuplicates/src/Solution.java
 [20]: https://oj.leetcode.com/problems/valid-parentheses/
-[20a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Stack/ValidParentheses/Solution.java
+[20a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Stack/ValidParentheses/src/Solution.java
 [21]: https://oj.leetcode.com/problems/merge-two-sorted-lists/
 [21a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Linked-List/MergeSortedList.java
 [22]: https://oj.leetcode.com/problems/generate-parentheses/
-[22a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Stack/GenerateParentheses/Solution.java
+[22a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Stack/GenerateParentheses/src/Solution.java
 [23]: https://oj.leetcode.com/problems/merge-k-sorted-lists/
 [23a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Linked-List/MergeKLists.java
 [24]: https://oj.leetcode.com/problems/swap-nodes-in-pairs/
@@ -167,7 +167,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [138]: https://oj.leetcode.com/problems/copy-list-with-random-pointer/
 [138a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Linked-List/CopyRandomList.java
 [150]: https://oj.leetcode.com/problems/evaluate-reverse-polish-notation/
-[150a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Stack/ReversePolishNotation/Solution.java
+[150a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Stack/ReversePolishNotation/src/Solution.java
 [151]: https://oj.leetcode.com/problems/reverse-words-in-a-string/
 [151a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/reverseWords.java
 [152]: https://oj.leetcode.com/problems/maximum-product-subarray/
@@ -177,7 +177,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [154]: https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
 [154a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Search/SearchRotatedSortedArray/src/FindMin.java
 [155]: https://oj.leetcode.com/problems/min-stack/
-[155a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Stack/MinStack/Solution.java
+[155a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Stack/MinStack/src/Solution.java
 [156]: https://oj.leetcode.com/problems/binary-tree-upside-down/
 [156a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Tree/UpsideDownBinaryTree/Solution.java
 [161]: https://oj.leetcode.com/problems/one-edit-distance/
