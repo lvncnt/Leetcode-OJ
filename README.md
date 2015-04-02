@@ -12,7 +12,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 8   | [String to Integer (atoi)][8]                         | :star:              | [:unlock:][8a]
 9   | [Palindrome Number][9]                                | :star:              | [:unlock:][9a]
 12  | [Integer to Roman][12]                                | :star::star:        | [:unlock:][12a]
-13  | [Roman to Integer][13]                                | :star:              | [:unlock:][13a]
+13  | [Roman to Integer][13]                                | :star:              | [:unlock:][12a]
 15  | [3Sum][15]                                            |:star::star:         | [:unlock:][15a]
 19  | [Remove Nth Node From End of List][19]                | :star:              | [:unlock:][19a]
 20  | [Valid Parentheses][20]                               | :star:              | [:unlock:][20a]
@@ -24,7 +24,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 33  | [Search in Rotated Sorted Array][33]                  | :star::star::star:  | [:unlock:][33a]  
 35  | [Search Insert Position][35]                          | :star::star:        | [:unlock:][35a]
 46  | [Permutations][46]                                    | :star::star:        | [:unlock:][46a]
-47  | [Permutations II][47]                                 | :star::star::star:  | [:unlock:][47a]
+47  | [Permutations II][47]                                 | :star::star::star:  | [:unlock:][46a]
 48  | [Rotate Image][48]                                    | :star::star:        | [:unlock:][48a]
 50  | [Pow(x, n)][50]                                       | :star::star:        | [:unlock:][50a]
 53  | [Maximum Subarray][53]                                | :star::star:        | [:unlock:][53a]
@@ -42,7 +42,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 92  | [Reverse Linked List II][92]                          | :star::star:        | [:unlock:][92a]
 98  | [Validate Binary Search Tree][98]                     | :star::star:        | [:unlock:][98a]
 102 | [Binary Tree Level Order Traversal][102]              | :star:              | [:unlock:][102a]
-103 | [Binary Tree Zigzag Level Order Traversal][103]       | :star::star:        | [:unlock:][103a]
+103 | [Binary Tree Zigzag Level Order Traversal][103]       | :star::star:        | [:unlock:][102a]
 104 | [Maximum Depth of Binary Tree][104]                   | :star:              | [:unlock:][104a]
 107 | [Binary Tree Level Order Traversal II][107]           | :star:              | [:unlock:][107a]
 108 | [Convert Sorted Array to Binary Search Tree][108]     | :star::star:        | [:unlock:][108a]
@@ -58,7 +58,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 151 | [Reverse Words in a String][151]                      | :star::star:        | [:unlock:][151a]
 152 | [Maximum Product Subarray][152]                       | :star::star:        | [:unlock:][152a]
 153 | [Find Minimum in Rotated Sorted Array][153]           | :star::star:        | [:unlock:][153a]
-154 | [Find Minimum in Rotated Sorted Array II][154]        | :star::star::star:  | [:unlock:][154a] 
+154 | [Find Minimum in Rotated Sorted Array II][154]        | :star::star::star:  | [:unlock:][153a] 
 155 | [Min Stack][155]                                      | :star:              | [:unlock:][155a]
 156 | [Binary Tree Upside Down][156]                        | :star::star:        | [:unlock:][156a]
 161 | [One Edit Distance][161]                              | :star::star:        | [:unlock:][161a]
@@ -81,9 +81,8 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [9]: https://oj.leetcode.com/problems/palindrome-number/
 [9a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Math/PalindromeNumber.java
 [12]: https://oj.leetcode.com/problems/integer-to-roman/
-[12a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Misc/RomanInteger/Solution.java
 [13]: https://oj.leetcode.com/problems/roman-to-integer/
-[13a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Misc/RomanInteger/Solution.java
+[12a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Misc/RomanInteger/Solution.java
 [15]: https://leetcode.com/problems/3sum/
 [15a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/ThreeSum.java
 [19]: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
@@ -105,9 +104,8 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [35]: https://oj.leetcode.com/problems/search-insert-position/
 [35a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Search/SearchInsertPosition/src/Solution.java
 [46]: https://leetcode.com/problems/permutations/
-[46a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Math/Permutations/src/Solution.java
 [47]: https://leetcode.com/problems/permutations-ii/
-[47a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Math/Permutations/src/Solution.java
+[46a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Math/Permutations/src/Solution.java
 [48]: https://leetcode.com/problems/rotate-image/
 [48a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/Rotate/src/Solution.java
 [50]: https://leetcode.com/problems/powx-n/
@@ -133,7 +131,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [81]: https://oj.leetcode.com/problems/search-in-rotated-sorted-array-ii/
 [81a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Search/SearchRotatedSortedArray/src/Search.java
 [82]: https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/
-[82a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/7f09f36406c68b945d0fe6e2468b5b11ca7c03ce/Linked-List/DeleteDuplicates/src/Solution.java
+[82a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/stringToInteger.java
 [88]: https://oj.leetcode.com/problems/merge-sorted-array/
 [88a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Linked-List/MergeSortedArray.java
 [92]: https://leetcode.com/problems/reverse-linked-list-ii/
@@ -141,9 +139,8 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [98]: https://oj.leetcode.com/problems/validate-binary-search-tree/
 [98a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Tree/BinarySearchTree.java
 [102]: https://leetcode.com/problems/binary-tree-level-order-traversal/
-[102a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Tree/LevelOrderTraversal/src/Solution.java
 [103]: https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
-[103a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Tree/LevelOrderTraversal/src/Solution.java
+[102a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Tree/LevelOrderTraversal/src/Solution.java
 [110]: https://oj.leetcode.com/problems/balanced-binary-tree/
 [110a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Tree/BalancedBinaryTree.java
 [104]: https://oj.leetcode.com/problems/maximum-depth-of-binary-tree/
@@ -173,9 +170,8 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [152]: https://oj.leetcode.com/problems/maximum-product-subarray/
 [152a]: https://github.com/lvncnt/Leetcode-OJ/blob/master/Dynamic-Programming/MaximumSubarray/src/Solution.java
 [153]: https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array/
-[153a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Search/SearchRotatedSortedArray/src/FindMin.java
 [154]: https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
-[154a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Search/SearchRotatedSortedArray/src/FindMin.java
+[153a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Search/SearchRotatedSortedArray/src/FindMin.java
 [155]: https://oj.leetcode.com/problems/min-stack/
 [155a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Stack/MinStack/src/Solution.java
 [156]: https://oj.leetcode.com/problems/binary-tree-upside-down/
