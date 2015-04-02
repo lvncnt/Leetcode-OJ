@@ -169,7 +169,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [150]: https://oj.leetcode.com/problems/evaluate-reverse-polish-notation/
 [150a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Stack/ReversePolishNotation/src/Solution.java
 [151]: https://oj.leetcode.com/problems/reverse-words-in-a-string/
-[151a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/reverseWords.java
+[151a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/ReverseWords/src/Main.java
 [152]: https://oj.leetcode.com/problems/maximum-product-subarray/
 [152a]: https://github.com/lvncnt/Leetcode-OJ/blob/master/Dynamic-Programming/MaximumSubarray/src/Solution.java
 [153]: https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array/
