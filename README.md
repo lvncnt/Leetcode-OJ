@@ -18,7 +18,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 20  | [Valid Parentheses][20]                               | :star:              | [:unlock:][20a]
 21  | [Merge Two Sorted Lists][21]                          | :star:              | [:unlock:][21a]
 22  | [Generate Parentheses][22]                            | :star::star:        | [:unlock:][22a]
-23  | [Merge k Sorted Lists][23]                            | :star::star::star:  | [:unlock:][23a]  
+23  | [Merge k Sorted Lists][23]                            | :star::star::star:  | [:unlock:][21a]  
 24  | [Swap Nodes in Pairs][24]                             | :star::star:        | [:unlock:][24a]
 28  | [Implement strStr()][28]                              | :star:              | [:unlock:][28a]
 33  | [Search in Rotated Sorted Array][33]                  | :star::star::star:  | [:unlock:][33a]  
@@ -38,7 +38,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 72  | [Edit Distance][72]                                   | :star::star::star:  | [:unlock:][72a] 
 81  | [Search in Rotated Sorted Array II][81]               | :star::star:        | [:unlock:][81a]
 82  | [Remove Duplicates from Sorted List II][82]           | :star:              | [:unlock:][82a]
-88  | [Merge Sorted Array][88]                              | :star:              | [:unlock:][88a]
+88  | [Merge Sorted Array][88]                              | :star:              | [:unlock:][21a]
 92  | [Reverse Linked List II][92]                          | :star::star:        | [:unlock:][92a]
 98  | [Validate Binary Search Tree][98]                     | :star::star:        | [:unlock:][98a]
 102 | [Binary Tree Level Order Traversal][102]              | :star:              | [:unlock:][102a]
@@ -93,7 +93,6 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [21a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Linked-List/MergeSortedList.java
 [22]: https://oj.leetcode.com/problems/generate-parentheses/
 [22a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Stack/GenerateParentheses/src/Solution.java
-[23]: https://oj.leetcode.com/problems/merge-k-sorted-lists/
 [23a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Linked-List/MergeKLists.java
 [24]: https://oj.leetcode.com/problems/swap-nodes-in-pairs/
 [24a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Linked-List/SwapNodes.java
@@ -133,7 +132,6 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [82]: https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/
 [82a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/stringToInteger.java
 [88]: https://oj.leetcode.com/problems/merge-sorted-array/
-[88a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Linked-List/MergeSortedArray.java
 [92]: https://leetcode.com/problems/reverse-linked-list-ii/
 [92a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Linked-List/ReverseList/src/Solution.java
 [98]: https://oj.leetcode.com/problems/validate-binary-search-tree/
