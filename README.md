@@ -93,7 +93,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [21a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Linked-List/MergeSortedList.java
 [22]: https://oj.leetcode.com/problems/generate-parentheses/
 [22a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Stack/GenerateParentheses/src/Solution.java
-[23a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Linked-List/MergeKLists.java
+[23]: https://leetcode.com/problems/merge-k-sorted-lists/
 [24]: https://oj.leetcode.com/problems/swap-nodes-in-pairs/
 [24a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Linked-List/SwapNodes.java
 [28]: https://oj.leetcode.com/problems/implement-strstr/
