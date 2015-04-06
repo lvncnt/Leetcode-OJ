@@ -90,7 +90,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [20]: https://oj.leetcode.com/problems/valid-parentheses/
 [20a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Stack/ValidParentheses/src/Solution.java
 [21]: https://oj.leetcode.com/problems/merge-two-sorted-lists/
-[https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Linked-List/MergeLists/src/Main.java
+[21a]: [https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Linked-List/MergeLists/src/Main.java
 [22]: https://oj.leetcode.com/problems/generate-parentheses/
 [22a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Stack/GenerateParentheses/src/Solution.java
 [23]: https://leetcode.com/problems/merge-k-sorted-lists/
