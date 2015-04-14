@@ -158,7 +158,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [124]: https://oj.leetcode.com/problems/binary-tree-maximum-path-sum/
 [124a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Tree/MaxPathSum/Solution.java
 [125]: https://oj.leetcode.com/problems/valid-palindrome/
-[125a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/validPalindrome.py
+[125a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/ValidPalindrome/src/Solution.java
 [133]: https://oj.leetcode.com/problems/clone-graph/
 [133a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Misc/CloneGraph/Solution.java
 [136]: https://oj.leetcode.com/problems/single-number/
