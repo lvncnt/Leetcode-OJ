@@ -1,7 +1,7 @@
 
 /** Validate if a given string is numeric. */  
 
-class Solution(){
+class Solution{
   
   public boolean isNumber(String s){
     int i = 0, len = s.length(); 

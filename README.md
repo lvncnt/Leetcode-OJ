@@ -79,7 +79,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [7]: https://oj.leetcode.com/problems/reverse-integer/
 [7a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Math/ReverseInteger.java
 [8]: https://oj.leetcode.com/problems/string-to-integer-atoi/
-[8a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/reverseWords.java
+[8a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/StringToInteger/src/Solution.java
 [9]: https://oj.leetcode.com/problems/palindrome-number/
 [9a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Math/PalindromeNumber.java
 [12]: https://oj.leetcode.com/problems/integer-to-roman/
@@ -120,7 +120,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [62a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Dynamic-Programming/UniquePaths/Solution.java
 [63a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Dynamic-Programming/UniquePathsWithObstacles/Solution.java
 [65]: https://oj.leetcode.com/problems/valid-number/
-[65a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/ValidNumber.java
+[65a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/ValidNumber/src/Solution.java
 [66]: https://oj.leetcode.com/problems/plus-one/
 [66a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Math/PlusOne.java
 [69]: https://oj.leetcode.com/problems/sqrtx/
