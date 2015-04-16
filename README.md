@@ -26,6 +26,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 46  | [Permutations][46]                                    | :star::star:        | [:unlock:][46a]
 47  | [Permutations II][47]                                 | :star::star::star:  | [:unlock:][46a]
 48  | [Rotate Image][48]                                    | :star::star:        | [:unlock:][48a]
+49  | [Anagrams][49]                                        | :star::star:        | [:unlock:][49a]
 50  | [Pow(x, n)][50]                                       | :star::star:        | [:unlock:][50a]
 53  | [Maximum Subarray][53]                                | :star::star:        | [:unlock:][53a]
 54  | [Spiral Matrix][54]                                   | :star::star:        | [:unlock:][54a]
@@ -109,6 +110,8 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [46a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Math/Permutations/src/Solution.java
 [48]: https://leetcode.com/problems/rotate-image/
 [48a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/Rotate/src/Solution.java
+[49]: https://leetcode.com/problems/anagrams/
+[49a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/Anagrams/src/Solution.java
 [50]: https://leetcode.com/problems/powx-n/
 [50a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Math/Pow/src/Solution.java
 [53]: https://oj.leetcode.com/problems/maximum-subarray/
