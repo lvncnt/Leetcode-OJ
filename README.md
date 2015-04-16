@@ -31,7 +31,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 53  | [Maximum Subarray][53]                                | :star::star:        | [:unlock:][53a]
 54  | [Spiral Matrix][54]                                   | :star::star:        | [:unlock:][54a]
 62  | [Unique Paths][62]	                            | :star::star:        | [:unlock:][62a]
-63  | [Unique Paths II ][63]                                | :star::star:        | [:unlock:][63a]
+63  | [Unique Paths II ][63]                                | :star::star:        | [:unlock:][62a]
 65  | [Valid Number][65] 	                            | :star::star::star:  | [:unlock:][65a] 
 66  | [Plus One][66]                                        | :star:              | [:unlock:][66a]
 69  | [Sqrt(x)][69]                                         | :star::star:        | [:unlock:][69a]
@@ -120,8 +120,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [54a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Misc/SpiralMatrix/Solution.java
 [62]: https://oj.leetcode.com/problems/unique-paths/
 [63]: https://leetcode.com/problems/unique-paths-ii/
-[62a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Dynamic-Programming/UniquePaths/Solution.java
-[63a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Dynamic-Programming/UniquePathsWithObstacles/Solution.java
+[62a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Dynamic-Programming/UniquePaths/src/Solution.java
 [65]: https://oj.leetcode.com/problems/valid-number/
 [65a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/ValidNumber/src/Solution.java
 [66]: https://oj.leetcode.com/problems/plus-one/
