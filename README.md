@@ -13,7 +13,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 9   | [Palindrome Number][9]                                | :star:              | [:unlock:][9a]
 12  | [Integer to Roman][12]                                | :star::star:        | [:unlock:][12a]
 13  | [Roman to Integer][13]                                | :star:              | [:unlock:][12a]
-15  | [3Sum][15]                                            |:star::star:         | [:unlock:][15a]
+15  | [3Sum][15]                                            | :star::star:        | [:unlock:][15a]
 19  | [Remove Nth Node From End of List][19]                | :star:              | [:unlock:][19a]
 20  | [Valid Parentheses][20]                               | :star:              | [:unlock:][20a]
 21  | [Merge Two Sorted Lists][21]                          | :star:              | [:unlock:][21a]
@@ -23,15 +23,13 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 28  | [Implement strStr()][28]                              | :star:              | [:unlock:][28a]
 33  | [Search in Rotated Sorted Array][33]                  | :star::star::star:  | [:unlock:][33a]  
 35  | [Search Insert Position][35]                          | :star::star:        | [:unlock:][35a]
-46  | [Permutations][46]                                    | :star::star:        | [:unlock:][46a]
-47  | [Permutations II][47]                                 | :star::star::star:  | [:unlock:][46a]
+46  | [Permutations I, II ][46]                             | :star::star:        | [:unlock:][46a]
 48  | [Rotate Image][48]                                    | :star::star:        | [:unlock:][48a]
 49  | [Anagrams][49]                                        | :star::star:        | [:unlock:][49a]
 50  | [Pow(x, n)][50]                                       | :star::star:        | [:unlock:][50a]
 53  | [Maximum Subarray][53]                                | :star::star:        | [:unlock:][53a]
 54  | [Spiral Matrix][54]                                   | :star::star:        | [:unlock:][54a]
-62  | [Unique Paths][62]	                            | :star::star:        | [:unlock:][62a]
-63  | [Unique Paths II ][63]                                | :star::star:        | [:unlock:][62a]
+62  | [Unique Paths I, II][62]	                            | :star::star:        | [:unlock:][62a]
 65  | [Valid Number][65] 	                            | :star::star::star:  | [:unlock:][65a] 
 66  | [Plus One][66]                                        | :star:              | [:unlock:][66a]
 69  | [Sqrt(x)][69]                                         | :star::star:        | [:unlock:][69a]
@@ -53,8 +51,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 111 | [Minimum Depth of Binary Tree][111]                   | :star:              | [:unlock:][111a]
 124 | [Binary Tree Maximum Path Sum][124]                   | :star::star::star:  | [:unlock:][124a]
 125 | [Valid Palindrome][125]                               | :star:              | [:unlock:][125a]
-131 | [Palindrome Partitioning][131]                        | :star::star:        | [:unlock:][5a]
-132 | [Palindrome Partitioning II][132]                     | :star::star::star:  | [:unlock:][5a]
+131 | [Palindrome Partitioning I, II][131]                  | :star::star:        | [:unlock:][5a]
 133 | [Clone Graph][133]                                    | :star::star:        | [:unlock:][133a]
 136 | [Single Number][136]                                  | :star::star:        | [:unlock:][136a]
 138 | [Copy List with Random Pointer][138]                  | :star::star::star:  | [:unlock:][138a]
@@ -62,8 +59,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 150 | [Evaluate Reverse Polish Notation][150]               | :star::star:        | [:unlock:][150a]
 151 | [Reverse Words in a String][151]                      | :star::star:        | [:unlock:][151a]
 152 | [Maximum Product Subarray][152]                       | :star::star:        | [:unlock:][152a]
-153 | [Find Minimum in Rotated Sorted Array][153]           | :star::star:        | [:unlock:][153a]
-154 | [Find Minimum in Rotated Sorted Array II][154]        | :star::star::star:  | [:unlock:][153a] 
+153 | [Find Minimum in Rotated Sorted Array I, II][153]     | :star::star:        | [:unlock:][153a]
 155 | [Min Stack][155]                                      | :star:              | [:unlock:][155a]
 156 | [Binary Tree Upside Down][156]                        | :star::star:        | [:unlock:][156a]
 161 | [One Edit Distance][161]                              | :star::star:        | [:unlock:][161a]
@@ -108,7 +104,6 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [35]: https://oj.leetcode.com/problems/search-insert-position/
 [35a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Search/SearchInsertPosition/src/Solution.java
 [46]: https://leetcode.com/problems/permutations/
-[47]: https://leetcode.com/problems/permutations-ii/
 [46a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Math/Permutations/src/Solution.java
 [48]: https://leetcode.com/problems/rotate-image/
 [48a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/Rotate/src/Solution.java
@@ -121,7 +116,6 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [54]: https://oj.leetcode.com/problems/spiral-matrix/
 [54a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Misc/SpiralMatrix/Solution.java
 [62]: https://oj.leetcode.com/problems/unique-paths/
-[63]: https://leetcode.com/problems/unique-paths-ii/
 [62a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Dynamic-Programming/UniquePaths/src/Solution.java
 [65]: https://oj.leetcode.com/problems/valid-number/
 [65a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/ValidNumber/src/Solution.java
@@ -164,7 +158,6 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [125]: https://oj.leetcode.com/problems/valid-palindrome/
 [125a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/ValidPalindrome/src/Solution.java
 [131]: https://leetcode.com/problems/palindrome-partitioning/
-[132]: https://leetcode.com/problems/palindrome-partitioning-ii/
 [133]: https://oj.leetcode.com/problems/clone-graph/
 [133a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Misc/CloneGraph/Solution.java
 [136]: https://oj.leetcode.com/problems/single-number/
@@ -180,7 +173,6 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [152]: https://oj.leetcode.com/problems/maximum-product-subarray/
 [152a]: https://github.com/lvncnt/Leetcode-OJ/blob/master/Dynamic-Programming/MaximumSubarray/src/Solution.java
 [153]: https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array/
-[154]: https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
 [153a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Search/SearchRotatedSortedArray/src/FindMin.java
 [155]: https://oj.leetcode.com/problems/min-stack/
 [155a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Stack/MinStack/src/Solution.java
