@@ -53,6 +53,8 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 111 | [Minimum Depth of Binary Tree][111]                   | :star:              | [:unlock:][111a]
 124 | [Binary Tree Maximum Path Sum][124]                   | :star::star::star:  | [:unlock:][124a]
 125 | [Valid Palindrome][125]                               | :star:              | [:unlock:][125a]
+131 | [Palindrome Partitioning][131]                        | :star::star:        | [:unlock:][5a]
+132 | [Palindrome Partitioning II][132]                     | :star::star::star:  | [:unlock:][5a]
 133 | [Clone Graph][133]                                    | :star::star:        | [:unlock:][133a]
 136 | [Single Number][136]                                  | :star::star:        | [:unlock:][136a]
 138 | [Copy List with Random Pointer][138]                  | :star::star::star:  | [:unlock:][138a]
@@ -76,7 +78,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [3]: https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/
 [3a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/LengthOfLongestSubstring.java
 [5]: https://oj.leetcode.com/problems/longest-palindromic-substring/
-[5a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/LongestPalindrome.java
+[5a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/Palindrome/src/Main.java
 [7]: https://oj.leetcode.com/problems/reverse-integer/
 [7a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Math/ReverseInteger.java
 [8]: https://oj.leetcode.com/problems/string-to-integer-atoi/
@@ -161,6 +163,8 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [124a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Tree/MaxPathSum/Solution.java
 [125]: https://oj.leetcode.com/problems/valid-palindrome/
 [125a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/ValidPalindrome/src/Solution.java
+[131]: https://leetcode.com/problems/palindrome-partitioning/
+[132]: https://leetcode.com/problems/palindrome-partitioning-ii/
 [133]: https://oj.leetcode.com/problems/clone-graph/
 [133a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Misc/CloneGraph/Solution.java
 [136]: https://oj.leetcode.com/problems/single-number/
