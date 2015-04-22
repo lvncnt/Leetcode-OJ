@@ -35,6 +35,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 69  | [Sqrt(x)][69]                                         | :star::star:        | [:unlock:][69a]
 70  | [Climbing Stairs][70]                                 | :star:              | [:unlock:][70a]
 72  | [Edit Distance][72]                                   | :star::star::star:  | [:unlock:][72a] 
+74 	| [Search a 2D Matrix][74]                              | :star::star:        | [:unlock:][74a]              
 81  | [Search in Rotated Sorted Array II][81]               | :star::star:        | [:unlock:][81a]
 82  | [Remove Duplicates from Sorted List II][82]           | :star:              | [:unlock:][82a]
 88  | [Merge Sorted Array][88]                              | :star:              | [:unlock:][21a]
@@ -127,6 +128,8 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [70a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Dynamic-Programming/ClimbStairs/src/Solution.java
 [72]: https://oj.leetcode.com/problems/edit-distance/
 [72a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/EditDistance.java
+[74]: https://leetcode.com/problems/search-a-2d-matrix/
+[74a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Search/SearchMatrix/src/Main.java
 [81]: https://oj.leetcode.com/problems/search-in-rotated-sorted-array-ii/
 [81a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Binary-Search/SearchRotatedSortedArray/src/Search.java
 [82]: https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/
