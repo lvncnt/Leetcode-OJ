@@ -69,7 +69,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 
 [0]: http://leetcode.com/
 [1]: https://oj.leetcode.com/problems/two-sum/
-[1a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/twoSum.py
+[1a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/KSum/src/TwoSum.java
 [2]: https://oj.leetcode.com/problems/add-two-numbers/
 [2a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Linked-List/AddLinkedList/src/Main.java
 [3]: https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/
@@ -86,7 +86,7 @@ Problems (Source: [![alt text](https://raw.githubusercontent.com/lvncnt/Leetcode
 [13]: https://oj.leetcode.com/problems/roman-to-integer/
 [12a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Misc/RomanInteger/Solution.java
 [15]: https://leetcode.com/problems/3sum/
-[15a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/ThreeSum.java
+[15a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Array/KSum/src/ThreeSum.java
 [19]: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 [19a]: https://raw.githubusercontent.com/lvncnt/Leetcode-OJ/master/Linked-List/DeleteDuplicates/src/Solution.java
 [20]: https://oj.leetcode.com/problems/valid-parentheses/
