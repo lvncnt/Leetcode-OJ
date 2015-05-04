@@ -8,9 +8,9 @@ import java.util.*;
  *
  */
 
-class Solution {
+class ThreeSum {
 	
-	public List<List<Integer>> threeSumII(int[] num){
+	public List<List<Integer>> threeSum(int[] num){
 		Arrays.sort(num);
 		Set<List<Integer>> set = new HashSet<>(); 
 		int i, j, k; 
@@ -38,6 +38,6 @@ class Solution {
 
 	public static void main(String[] args) {
 		int[] num = {-1,-1,-1,0,2,2};		 
-		System.out.println(new Solution().threeSum(num));
+		System.out.println(new ThreeSum().threeSum(num));
 	}
 }
